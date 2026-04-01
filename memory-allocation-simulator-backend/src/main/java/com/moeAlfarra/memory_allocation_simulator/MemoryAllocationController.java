@@ -4,7 +4,10 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/memory-allocate")
-@CrossOrigin(origins = "https://memory-allocation-simulator-rose.vercel.app")  // Change if running frontend locally/different host
+@CrossOrigin(origins = {
+        "http://localhost:5173",
+        "https://memory-allocation-simulator-rose.vercel.app"})  // Change if running frontend locally/different host
+
 public class MemoryAllocationController {
     private final MemoryAllocationService memoryAllocationService;
 
