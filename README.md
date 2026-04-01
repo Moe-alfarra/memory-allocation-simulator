@@ -2,6 +2,9 @@
 
 A full-stack Memory Allocation Simulator that visualizes how different memory allocation strategies assign processes to memory blocks. The simulator provides an interactive interface for configuring memory blocks, adding processes, running allocation algorithms, and visualizing the resulting memory layout.
 
+
+<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/257d3451-cade-447d-b06f-0b1f16716380" />
+
 ---
 
 # Tech Stack
