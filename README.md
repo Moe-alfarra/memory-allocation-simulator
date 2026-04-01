@@ -5,8 +5,8 @@ A full-stack Memory Allocation Simulator that visualizes how different memory al
 
 <img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/257d3451-cade-447d-b06f-0b1f16716380" />
 
-
 Hosted on Vercel: https://memory-allocation-simulator-rose.vercel.app/
+
 ---
 
 # Tech Stack
