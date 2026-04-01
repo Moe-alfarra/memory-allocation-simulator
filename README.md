@@ -1,10 +1,8 @@
 ---
 
-Memory Allocation Simulator
+# Memory Allocation Simulator
 
 A full-stack Memory Allocation Simulator that visualizes how different memory allocation strategies assign processes to memory blocks. The simulator provides an interactive interface for configuring memory blocks, adding processes, running allocation algorithms, and visualizing the resulting memory layout.
-
-Hosted on Vercel:
 
 ---
 
@@ -243,12 +241,3 @@ The simulator allocates processes to memory blocks based on the selected algorit
 Mohammed Alfarra
 
 ---
-
-If you want, I can also give you a **much nicer GitHub README version** with:
-
-* preview screenshots
-* centered title
-* badges
-* demo button
-
-That makes the project look **10x more professional when recruiters open it.**
